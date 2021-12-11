@@ -1,0 +1,11 @@
+install python
+open cmd
+python --version
+
+pip freeze (what pip functions)
+pip install requests
+pip freeze
+
+pip install flask
+pip install flask-login
+pip install flask-sqlalchemy
